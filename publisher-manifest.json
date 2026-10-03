@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6119604c55ca4030e8463389",
+  "owner": "ykgdschrtj",
+  "repo": "page-050036f8c3b05ac2b1ee15f0",
+  "title": "一云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "050036f8c3b05ac2b1ee15f0",
+      "a": "一云梯",
+      "b": "",
+      "entity": "一云梯",
+      "brand": "一云梯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e5bac92488c058012238952e559b37d865024c7ee677f0028cacc7d2d62859ea",
+      "content": {
+        "keyword1": "一云梯",
+        "keyword2": "",
+        "primary_entity": "一云梯",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "一云梯是面向个人与团队的机场与VPN加速服务官网，提供多套餐订阅、多端客户端下载及清晰配置流程，助力流媒体、游戏与跨境办公稳定加速。",
+          "AI_DESCRIPTION": "一云梯是面向个人与团队的机场与VPN加速服务官网，提供多套餐订阅、多端客户端下载及清晰配置流程，助力流媒体、游戏与跨境办公稳定加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;background:#faf6f1;color:#2b2b2b;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.7}a{color:#c45c4a}a:hover{text-decoration:underline}.wrap{max-width:1080px;margin:0 auto;padding:12px 16px}header{background:#fff8f3;border-bottom:3px solid #e07a5f;padding:10px 0}.brand{font-size:1.35rem;font-weight:700;color:#c44536}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:8px}nav a{color:#5a3e36;font-weight:600;text-decoration:none}h1{font-size:1.7rem;color:#9c3b2e;line-height:1.35;margin:18px 0 10px}h2{font-size:1.32rem;color:#b85c38;border-left:4px solid #e07a5f;padding-left:10px;margin:26px 0 10px}h3{font-size:1.08rem;color:#7a3b2e;margin:16px 0 6px}.lead{font-size:1.04rem}.layout{display:flex;flex-wrap:wrap;gap:20px}.primary{flex:1 1 640px}.side{flex:1 1 260px}.card{background:#fff;border:1px solid #f0d9cc;border-radius:8px;padding:16px;margin:0 0 12px}.card.featured{border:2px solid #e07a5f;background:#fff7f2}.price{font-size:1.28rem;color:#c44536;font-weight:700}.muted{color:#6b5348;font-size:.92rem}.step{background:#fff;padding:14px 16px;margin:10px 0;border-radius:6px;border:1px solid #eedfd6}.btn{display:inline-block;background:#e07a5f;color:#fff;padding:8px 14px;border-radius:4px;font-weight:600;margin:4px 6px 4px 0;text-decoration:none}.btn:hover{background:#c45c4a;color:#fff;text-decoration:none}ul.clean{padding-left:1.2em}details{background:#fff;border:1px solid #edd9cc;border-radius:6px;padding:10px 14px;margin:8px 0}summary{font-weight:700;color:#8a3e30;cursor:pointer}.adbox,.friends{background:#fff4ec;border:1px dashed #e0b8a8;padding:12px;margin:12px 0;border-radius:6px}footer{margin-top:36px;padding:18px 0;border-top:1px solid #e8d4c8;font-size:.9rem;color:#6a5348}@media(max-width:680px){h1{font-size:1.42rem}nav{flex-direction:column}.btn{display:block;text-align:center;margin:8px 0}}</style><header><div class=\"wrap\"><div class=\"brand\">一云梯 官方网站</div><nav><a href=\"#about\">品牌简介</a><a href=\"#plans\">套餐订阅</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></div></header><main class=\"wrap\"><h1>一云梯官网：机场订阅、VPN梯子与客户端下载</h1><div class=\"layout\"><div class=\"primary\"><section id=\"about\"><h2>关于一云梯</h2><p class=\"lead\">一云梯是面向个人用户与小团队的机场与 VPN 加速服务。我们把线路筛选、订阅分发和客户端接入说明集中在同一官网，方便你按场景选择套餐、完成机场订阅并下载对应客户端。</p><p>服务定位很直接：用可预期的流量与设备额度，覆盖日常跨境访问、流媒体观看、资料检索和轻度到中度游戏加速。旗舰与团队档位提供原生流媒体解锁与 IPLC 专线优化，基础档则适合轻度浏览与学习用途。本页为一云梯官方网站入口，套餐说明、配置流程与官方下载指引均以这里为准。</p><p>节点侧以香港、日本、新加坡、美国、台湾等地中转与专线组合为主，强调高峰时段可用性，而不是堆砌无法核验的口号。你在客户端里看到的是可更新的订阅节点池，可按延迟与用途自行切换。</p></section><section id=\"plans\"><h2>机场套餐与订阅说明</h2><p>下列三档为当前固定方案。年付可降低月均成本。开通后即可在用户中心复制订阅地址，用于各端客户端导入。</p><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul class=\"clean\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"btn\" href=\"#guide\">查看配置流程</a></p></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul class=\"clean\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"btn\" href=\"#download\">前往客户端下载</a></p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul class=\"clean\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"btn\" href=\"#scenes\">匹配使用场景</a></p></article></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版与团队版面向 Netflix、Disney+、YouTube 等高清播放做了原生解锁节点划分，减少“有信号但无法播放”的情况。基础版可满足常见视频与资讯站点的基础解锁。</p><h3>游戏与低延迟链路</h3><p>需要更稳的对战或登录体验时，优先走 IPLC 游戏优化线路。适合主机商店下载、对延迟敏感的在线对局，以及需要固定出口的加速器用法。</p><h3>远程办公与学习</h3><p>视频会议、代码仓库、文献数据库和网盘同步，建议固定一条质量较好的中转或专线，并在客户端开启规则分流，让国内流量直连、跨境流量走一云梯机场。</p><h3>多设备随身使用</h3><p>手机、电脑、平板可共享同一订阅。注意套餐设备上限：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后请下线闲置终端或升级档位。</p></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>一云梯强调可执行的接入步骤。按下面五步完成，一般即可从“已付款”走到“系统已代理”。</p><div class=\"step\"><h3>第一步：确认套餐与流量需求</h3><p>轻度浏览选基础版；需要完整流媒体与游戏线路选旗舰版；多成员共用或长期大流量选团队版。年付适合已经验证过节点质量、准备长期使用的用户。</p></div><div class=\"step\"><h3>第二步：在官网开通并复制订阅地址</h3><p>登录一云梯官方网站用户中心，打开订阅管理，复制通用订阅链接（Clash / Sing-box 等格式按客户端选择）。不要把订阅链接发到公开群组，避免流量被盗用。</p></div><div class=\"step\"><h3>第三步：下载对应系统的客户端</h3><p>Windows 可用 Clash 系或 sing-box 图形客户端；macOS 可用 Clash Meta 或 Surge；iOS 常用 Shadowrocket、Stash；Android 常用 Clash Meta for Android。具体入口见下方客户端下载。</p></div><div class=\"step\"><h3>第四步：导入机场订阅并更新节点</h3><p>在客户端选择“从 URL 导入”或“订阅管理”，粘贴一云梯订阅地址，执行更新。成功后应看到分区节点，例如通用中转、流媒体、IPLC 游戏等。</p></div><div class=\"step\"><h3>第五步：选择节点、开启系统代理并分流</h3><p>先测延迟，再按用途选择节点。开启 TUN 或系统代理后，用规则模式让国内网站直连。若某条线路异常，切换同区域备用节点即可，不必反复重装软件。</p></div></section><section id=\"download\"><h2>客户端下载与官方下载指引</h2><p>请通过一云梯官网获取客户端版本说明与订阅导入方式，避免来路不明的修改包。下列为常用端的接入提示，下载跳转使用页内锚点，便于在本页完成对照。</p><h3>桌面端</h3><p>Windows：Clash Verge 类、Clash Nyanpasu 或 sing-box 图形版，导入订阅后开启系统代理。<a class=\"btn\" href=\"#guide\">Windows 配置</a></p><p>macOS：ClashX Meta 或 Surge，注意授权网络扩展后再更新节点。<a class=\"btn\" href=\"#guide\">macOS 配置</a></p><h3>移动端</h3><p>iOS：Shadowrocket 或 Stash，从 App Store 获取应用后粘贴一云梯机场订阅。<a class=\"btn\" href=\"#faq\">iOS 常见问题</a></p><p>Android：Clash Meta for Android，建议关闭电池优化以免后台被杀。<a class=\"btn\" href=\"#faq\">Android 常见问题</a></p><p>如需企业分发或团队统一路由，使用团队版后由客户经理协助下发配置模板。本站只提供官方下载说明，不附带来源不明的安装包镜像。</p></section><section><h2>节点、线路与使用建议</h2><p>一云梯节点池按用途分组：日常浏览走中转，流媒体走原生解锁，游戏走 IPLC 优化。延迟会随时段变化，以客户端实时测速为准。若仅网页访问，不必始终占用游戏专线；若 4K 播放卡顿，优先换同区域解锁节点而不是无限重连。</p><p>流量按月结算，超额后会限速或暂停加速，可在用户中心查看余量。团队版提供更高带宽与定制路由，适合把办公网段与个人设备分开策略。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>一云梯如何完成机场订阅导入？</summary><p>在官网复制订阅地址，打开已安装的客户端，选择从 URL 添加订阅并更新。导入成功后节点列表会出现分区。若更新失败，检查链接是否完整、系统时间是否准确，然后更换网络再试。</p></details><details><summary>官方客户端下载应该从哪里获取？</summary><p>以一云梯官方网站本页的客户端下载说明为准。iOS 应用请走系统商店，桌面与 Android 请使用开发者发布渠道或官网标注版本，避免第三方修改包导致订阅泄露。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>单人轻度使用选基础版（100GB / 3 设备）。需要原生流媒体、IPLC 游戏加速和优先工单选旗舰版（300GB / 5 设备）。多人共用、大流量或要定制路由选团队版（1000GB / 20 设备）。</p></details><details><summary>能否稳定解锁常见流媒体？</summary><p>旗舰版与团队版提供全节点原生流媒体解锁，适合 Netflix、Disney+ 等。基础版仅覆盖基础流媒体。若某个节目仍提示地区限制，切换到流媒体分组中的其他原生节点即可。</p></details><details><summary>多台设备同时在线有什么限制？</summary><p>同时在线数按套餐计算：基础 3 台、旗舰 5 台、团队 20 台。电脑、手机、平板均计入。超出后新设备可能无法连接，请下线不用的终端或升级套餐。</p></details><details><summary>游戏加速是否必须使用 IPLC？</summary><p>对延迟敏感的对局建议使用旗舰版或团队版中的 IPLC 游戏优化节点。网页和下载类游戏更新可用普通高速节点，以节省专线占用并保持更稳的匹配延迟。</p></details></section></div><aside class=\"side\"><div class=\"card\"><h2>官网快捷入口</h2><p>一云梯官方网站集中提供套餐对照、配置流程与客户端下载说明。</p><p><a class=\"btn\" href=\"#plans\">查看套餐</a><a class=\"btn\" href=\"#download\">官方下载</a></p></div><div class=\"adbox\" id=\"ads\"><h2>信息展示</h2><p>此处为官网信息展示位，用于发布线路维护窗口、客户端版本提示与合作说明。一云梯不在正文中插入跳转不明的外部下载。</p><p><a href=\"#guide\">配置流程速览</a> · <a href=\"#faq\">FAQ</a></p></div><div class=\"friends\" id=\"links\"><h2>友链</h2><p><a href=\"#download\">客户端下载指引</a></p><p><a href=\"#guide\">机场订阅导入教程</a></p><p><a href=\"#scenes\">VPN梯子使用场景</a></p><p><a href=\"#plans\">加速器套餐对照</a></p><p><a href=\"#about\">一云梯官网首页锚点</a></p></div></aside></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>一云梯官网 · 机场订阅与 VPN 网络加速服务说明页。站点地图见 <a href=\"#\">sitemap.xml</a>。</p><p>版权所有 · 请通过官方网站获取套餐与客户端下载信息。友情链接与展示位仅作站内导航。</p></div></footer>",
+          "hash": "0e46eaae686c1da7e394ccaf7d4226e754a0aa4ca0efe11dfced4199bfdae736",
+          "seo": {
+            "title": "一云梯官网 - VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "一云梯,一云梯机场,一云梯VPN,一云梯官网,VPN梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "一云梯是面向个人与团队的机场与VPN加速服务官网，提供多套餐订阅、多端客户端下载及清晰配置流程，助力流媒体、游戏与跨境办公稳定加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fvsc0a.cn",
+    "host": "p-f747870284.fvsc0a.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "fvsc0a.cn",
+      "url": "https://fvsc0a.cn/",
+      "label": "Dotunnel",
+      "apex": "fvsc0a.cn",
+      "kind": null,
+      "identity": "pbgkqv/page-e80f7ea755096aac00c77db3"
+    },
+    {
+      "host": "jncydx.com",
+      "url": "https://jncydx.com/",
+      "label": "一云梯",
+      "apex": "jncydx.com",
+      "kind": null,
+      "identity": "uedepyts/page-66faeafad1c5fe5d591a2228"
+    },
+    {
+      "host": "lingnanhuixi.com",
+      "url": "https://lingnanhuixi.com/",
+      "label": "一云梯",
+      "apex": "lingnanhuixi.com",
+      "kind": null,
+      "identity": "apftndw/page-e29fe23c7dbecbc9fc622a80"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "90ea31d6fa41f6085c9908c653db4dfe470017106e5429c99556207bae535942",
+    "sitemap.xml": "6c4df77b38ae25564d235b42b0c8c7004399a30f07ada0b4949143c7de0ba39a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9d99945014dc8e439d7f8afd8eecf3eaa27b733e9297ad9379ab12691ccda6da",
+    "robots.txt": "c95d35f78f9fd05baf9a6e906ad4c9de6f798b52dd613ce48a1ee05219394e5d",
+    "3ce3067d91cb8af7b05a7c0fb5ecd571.txt": "f12ac0d7695f968b4e007d6aaf0d8f3fa03b3f613165c769fef0793e8bdebd7c"
+  },
+  "revision": "06b7d1e7ec8bc3bbabefaac8307f5a7e5dfa595feb82df5bc85a7cc4f88bd8b2"
+}
